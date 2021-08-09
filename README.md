@@ -1,2 +1,2 @@
 # flutter-bytebank
-Praticando com Flutter na Alura
+Praticando com Flutter na Alura.
